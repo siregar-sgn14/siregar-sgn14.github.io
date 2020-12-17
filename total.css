@@ -29,7 +29,7 @@ a {
 header h1 {
     float: left;
     padding: 10px 0;
-    color: #148f77;
+    color: red;
 }
 header ul {
     float: right;
@@ -42,11 +42,11 @@ header ul li a {
     display: inline-block;
 }
 header ul li a:hover {
-    background-color: #148f77;
+    background-color: red;
     color: #ffff00;
 }
 .active{
-    background-color: #148f77;
+    background-color: red;
     color: #ffff00;
 }
 .banner {
