@@ -122,12 +122,12 @@ section h3 {
 }
 footer {
     padding: 10px 0;
-    background-color: #00008b;
+    background-color: red;
     color: #ffff00;
     text-align: center;
 }
 .label {
-    background-color: #148f77;
+    background-color: red;
     color: #ffff00;
     padding: 10px 0;
 }
